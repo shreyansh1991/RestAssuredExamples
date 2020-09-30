@@ -1,0 +1,1 @@
+{"address":{"zipcode":"95129","city":"San Jose","street":"Albany Dr"},"role":"Manager","cities":["Los Angeles","New York"],"permanent":"true","name":"Pankaj","id":"456","phoneNumbers":["123456","987654"],"properties":{"salary":"1000 USD","age":"29 years"}}

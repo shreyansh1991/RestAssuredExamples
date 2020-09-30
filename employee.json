@@ -1,0 +1,26 @@
+{
+	"address": {
+		"zipcode": "9458703411",
+		"city": "Hyd",
+		"street": "Madhapur"
+	},
+	"role": "Manager",
+	"cities": [
+		"key1:Los Angeles",
+		"key2:New York",
+		"key3:Blore"
+	],
+	"permanent": "true",
+	"name": "Pankaj",
+	"id": "1786",
+	"phoneNumbers": [
+		{
+			"key1": "9458703411",
+			"key2": "8884688154"
+		}
+	],
+	"properties": {
+		"salary": "5000 USD",
+		"age": "29 years"
+	}
+}
