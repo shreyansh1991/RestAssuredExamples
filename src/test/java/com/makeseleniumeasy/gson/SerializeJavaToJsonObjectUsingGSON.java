@@ -18,7 +18,7 @@ public class SerializeJavaToJsonObjectUsingGSON {
 		employeeObject.setFirstName("Shreyansh");
 		employeeObject.setLastName("Jain");
 		employeeObject.setAge(29);
-		employeeObject.setSalary(50000);
+		employeeObject.setSalary(5000);
 		employeeObject.setMarried(false);
 		employeeObject.setGender("M");
 		
